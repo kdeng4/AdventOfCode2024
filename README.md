@@ -6,3 +6,4 @@ https://adventofcode.com
 - [Day 2: Red-Nosed Reports](src/main/day_2.py)
 - [Day 3: Mull It Over](src/main/day_3.py)
 - [Day 4: Ceres Search](src/main/day_4.py)
+- [Day 5: Print Queue](src/main/day_5.py)
