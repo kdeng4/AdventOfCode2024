@@ -7,3 +7,4 @@ https://adventofcode.com
 - [Day 3: Mull It Over](src/main/day_3.py)
 - [Day 4: Ceres Search](src/main/day_4.py)
 - [Day 5: Print Queue](src/main/day_5.py)
+- [Day 6: Day 6: Guard Gallivant](src/main/day_6.py)
